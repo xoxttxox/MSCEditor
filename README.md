@@ -1,2 +1,3 @@
 # MSCEditor
-A feature packed save-file Editor for the game "My Summer Car"
+MSCeditor - a save editor			by durkhaz
+For the (great) game "My Summer Car"		by Amistech Games 
